@@ -1,5 +1,5 @@
-# Personal-IRsensorLinetracing-Robot-body
-# Autonomous Line-Tracing Robot Mainboard
+# Personal-IRsensorLinetracing-Robot-body(2023.10.08~10.29)
+## Autonomous Line-Tracing Robot Mainboard
 **RP2040 기반 IR 라인트레이싱 로봇 메인보드**
 
 > Raspberry Pi Pico(RP2040)와 TB6612 모터 드라이버로 4채널 IR 센서를 읽어
