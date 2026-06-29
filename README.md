@@ -4,8 +4,7 @@
 
 > Raspberry Pi Pico(RP2040)와 TB6612 모터 드라이버로 4채널 IR 센서를 읽어
 > 자율주행하는 라인트레이싱 로봇 메인보드. 섀시 일체형 커스텀 PCB로 설계했습니다.
-> (DORO 의뢰 프로젝트)
-
+> 
 <img src="https://github.com/user-attachments/assets/ff5d3243-92b3-4d79-9757-4b218302e6c9" alt="완성 보드 3D 앞면" width="55%">
 
 ## 개요
